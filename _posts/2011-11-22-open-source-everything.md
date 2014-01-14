@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Open Source (Almost) Everything
+title: Open Source (Almost) Everything你再说什么
 ---
 
 {{ page.title }}
